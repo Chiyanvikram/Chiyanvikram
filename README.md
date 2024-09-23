@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on top companies.
 - 📫 How to reach me (codorado444@gmail.com)
 - 😄 Pronouns: Vikram.S
-- ⚡ Fun fact: to make some smiles 
+- ⚡ Fun fact: to make someone to smiles 
 
 <!---
 Chiyanvikram/Chiyanvikram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
