@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chiyaanvikram.
+- 👋 Hi, I’m @Vikram S.
 - 👀 I’m interested in coding, Python and JavaScript.
 - 🌱 I’m currently learning C++, python, C, and java.
 - 💞️ I’m looking to collaborate on top companies.
